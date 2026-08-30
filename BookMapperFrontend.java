@@ -1,7 +1,5 @@
 // --== CS400 Project One File Header ==--
 // Name: Michael Deng
-// CSL Username: mdeng
-// Email: madeng@wisc.edu
 // Lecture #: <001 @11:00am>
 // Notes to Grader: <any optional extra notes to your grader>import java.util.List;
 import java.util.List;

@@ -1,7 +1,5 @@
 // --== CS400 Project One File Header ==--
 // Name: Henry Burke
-// CSL Username: hburke
-// Email: hpburke@wisc.edu
 // Lecture #: 001 @11:00am
 // Notes to Grader: did you eat enough today?
 

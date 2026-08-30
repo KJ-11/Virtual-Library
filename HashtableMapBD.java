@@ -1,7 +1,5 @@
 // --== CS400 Project One File Header ==--
 // Name: <Kshitij Jhunjhunwala>
-// CSL Username: <kshitij>
-// Email: <kjhunjhunwa2@wisc.edu>
 // Lecture #: <001 @11:00am>
 // Notes to Grader: <any optional extra notes to your grader>
 
